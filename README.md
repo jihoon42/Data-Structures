@@ -1,4 +1,5 @@
-Kim JiHoon's study history for the `Krafton Jungle` Data Structures course. From Week04 to Week07.
+Kim JiHoon's study history for the `Krafton Jungle` Data Structures course. 
+From Week04 to Week07.
 
 
 The practicing sequence could be `Linked List` -> `Stack n Queue` -> `Binary Tree` -> `Binary Search Tree`.
