@@ -1,1 +1,12 @@
 .vs/
+
+.xml
+.txt
+.yaml
+.exe
+.obj
+
+.ninja
+.log
+
+.cmake
